@@ -1,0 +1,12 @@
+{
+  "businessName": "Corner Kitchen",
+  "currency": "₹",
+  "items": [
+    { "id": "1", "name": "Masala Dosa", "price": 80, "description": "Crispy rice crepe with potato filling" },
+    { "id": "2", "name": "Paneer Butter Masala + Rice", "price": 150, "description": "Rich tomato-based curry, served with steamed rice" },
+    { "id": "3", "name": "Veg Biryani", "price": 130, "description": "Fragrant rice with mixed vegetables and spices" },
+    { "id": "4", "name": "Filter Coffee", "price": 30, "description": "South Indian style filter coffee" },
+    { "id": "5", "name": "Chicken Sandwich", "price": 90, "description": "Grilled chicken sandwich with veggies" },
+    { "id": "6", "name": "Fresh Lime Soda", "price": 40, "description": "Sweet or salted, served chilled" }
+  ]
+}
